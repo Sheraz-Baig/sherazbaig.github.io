@@ -24,7 +24,7 @@ Skills and Competencies
 
   ● Power System Studies
 
-  ● Electrical Machines Modeling
+  ● Electrical Machines Modelling
 
   ● Power Electronics
 
