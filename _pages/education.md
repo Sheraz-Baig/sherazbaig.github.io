@@ -8,7 +8,7 @@ author_profile: true
 
 *University of British Columbia, Vancouver, BC*
 
-Thesis: Modelling of Three-Phase Induction Machines for Studying Motor-Converter Transients
+Thesis: [Modelling of Three-Phase Induction Machines for Studying Motor-Converter Transients](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435557)
 
 Supervisor: Prof. Juri Jatskevich
 
