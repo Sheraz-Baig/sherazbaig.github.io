@@ -7,19 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-❖ Qualified and competent electrical engineer from the Powertech Labs Inc., with over two years of research experience in modelling, analysis, and simulation of power   
-     systems
+❖ Qualified and competent electrical engineer from the Powertech Labs Inc., with over two years of research experience in modelling, analysis, and simulation of power systems
 
-  ❖ Received M.A.Sc. degree in electrical and computer engineering from the University of British Columbia, Canada in 2023
+❖ Received M.A.Sc. degree in electrical and computer engineering from the University of British Columbia, Canada in 2023
 
-  ❖ Received M.A.Sc. degree in electrical and computer engineering from the University of British Columbia, Canada in 2023
+❖ Received M.A.Sc. degree in electrical and computer engineering from the University of British Columbia, Canada in 2023
 
-  ❖ Worked in the Electric Power and Energy Systems research group at UBC under the supervision of Prof. Juri Jatskevich
+❖ Worked in the Electric Power and Energy Systems research group at UBC under the supervision of Prof. Juri Jatskevich
 
-  ❖ Received B.Sc. degree in electrical engineering from Capital University of Science and Technology, Pakistan in 2019
+❖ Received B.Sc. degree in electrical engineering from Capital University of Science and Technology, Pakistan in 2019
 
-  ❖ Secured 1st position in the electrical engineering class of 2019 and was also a recipient of prestigious gold medal award for excellent performance during undergraduate 
-     studies at CUST
+❖ Secured 1st position in the electrical engineering class of 2019 and was also a recipient of prestigious gold medal award for excellent performance during undergraduate studies at CUST
 
 Skills and Competencies
 ======
