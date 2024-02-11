@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Highlights of Qualifications"
+title: "Sheraz Baig"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Highlights of Qualifications
+======
 
 ❖ Qualified and competent electrical engineer from the Powertech Labs Inc., with over two years of research experience in modelling, analysis, and simulation of power systems
 
