@@ -11,8 +11,6 @@ redirect_from:
 
 ❖ Received M.A.Sc. degree in electrical and computer engineering from the University of British Columbia, Canada in 2023
 
-❖ Received M.A.Sc. degree in electrical and computer engineering from the University of British Columbia, Canada in 2023
-
 ❖ Worked in the Electric Power and Energy Systems research group at UBC under the supervision of Prof. Juri Jatskevich
 
 ❖ Received B.Sc. degree in electrical engineering from Capital University of Science and Technology, Pakistan in 2019
