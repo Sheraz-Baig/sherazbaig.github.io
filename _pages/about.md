@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Highlights of Qualifications
-======
-
 ❖ Qualified and competent electrical engineer from the Powertech Labs Inc., with over two years of research experience in modelling, analysis, and simulation of power systems
 
 ❖ Received M.A.Sc. degree in electrical and computer engineering from the University of British Columbia, Canada in 2023
