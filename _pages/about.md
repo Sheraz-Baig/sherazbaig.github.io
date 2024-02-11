@@ -30,7 +30,7 @@ Skills and Competencies
 
   ● DSATools (TSAT, VSAT, SSAT, PSAT)
 
-  ● ETAP PowerWorld, PSS\E
+  ● ETAP, PowerWorld, PSS\E
 
   ● EMTP, PSCAD, OPAL-RT and Typhoon HIL real-time simulators
 
@@ -54,4 +54,4 @@ Professional Memberships
 
 ● Engineer-In-Training (EIT), *Engineers and Geoscientists BC*, Dec. 2023 – Present
 
-● Registered Electrical Engineer (RE), *Pakistan Engineering Council*, Dec. 2023 – Present
+● Registered Electrical Engineer (RE), *Pakistan Engineering Council*, Nov. 2019 – Present
