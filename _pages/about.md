@@ -54,6 +54,6 @@ Research Interests
 Professional Memberships
 ======
 
-● **Engineer-In-Training (EIT),** *Engineers and Geoscientists BC*, Dec. 2023 – Present
+● Engineer-In-Training (EIT), *Engineers and Geoscientists BC*, Dec. 2023 – Present
 
-● **Registered Electrical Engineer (RE),** *Pakistan Engineering Council*, Dec. 2023 – Present
+● Registered Electrical Engineer (RE), *Pakistan Engineering Council*, Dec. 2023 – Present
