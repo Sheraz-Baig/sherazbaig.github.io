@@ -9,4 +9,3 @@ redirect_from:
 
 {% include base_path %}
 Blogs will be uploaded soon
-
