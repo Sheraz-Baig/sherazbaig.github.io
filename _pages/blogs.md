@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-Blogs will be uploaded soon.
+Welcome to Sheraz's blogs. 
+A place where I provide useful suggestions and recommendations for optimal lifestyle.
