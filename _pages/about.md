@@ -20,25 +20,25 @@ redirect_from:
 Skills and Competencies
 ======
 
-  - Research
+  ★ Research
 
-  - Power System Studies
+  ★ Power System Studies
 
-  - Electrical Machines Modelling
+  ★ Electrical Machines Modelling
 
-  - Power Electronics
+  ★ Power Electronics
 
-  - DSATools (TSAT, VSAT, SSAT, PSAT)
+  ★ DSATools (TSAT, VSAT, SSAT, PSAT)
 
-  - ETAP, PowerWorld, PSS\E
+  ★ ETAP, PowerWorld, PSS\E
 
-  - EMTP, PSCAD, OPAL-RT and Typhoon HIL real-time simulators
+  ★ EMTP, PSCAD, OPAL-RT and Typhoon HIL real-time simulators
 
-  - MATLAB, Simulink, PLECS, PSpice, Proteus
+  ★ MATLAB, Simulink, PLECS, PSpice, Proteus
 
-  - Python, C/C++, OOP, and Data Structures
+  ★ Python, C/C++, OOP, and Data Structures
 
-  - Technical Report Writing
+  ★ Technical Report Writing
 
 Research Interests
 ======
@@ -52,6 +52,6 @@ Research Interests
 Professional Memberships
 ======
 
-- Engineer-In-Training (EIT), *Engineers and Geoscientists BC*, Dec. 2023 – Present
+❖ Engineer-In-Training (EIT), *Engineers and Geoscientists BC*, Dec. 2023 – Present
 
-- Registered Electrical Engineer (RE), *Pakistan Engineering Council*, Nov. 2019 – Present
+❖ Registered Electrical Engineer (RE), *Pakistan Engineering Council*, Nov. 2019 – Present
