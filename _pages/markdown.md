@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+sitemap: false  <-- Add this line
 ---
 
 ## Locations of key files/directories
