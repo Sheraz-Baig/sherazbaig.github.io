@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-❖ Qualified and competent electrical engineer from the Powertech Labs Inc., with over two years of research experience in modelling, analysis, and simulation of power systems
+❖ Qualified and competent Engineer-In-Training (EIT) from Powertech Labs Inc., with two years of research experience 
+and two years of consulting experience in modelling, analysis, and simulation of power systems
 
 ❖ Received M.A.Sc. degree in electrical and computer engineering from the University of British Columbia, Canada in 2023
 
