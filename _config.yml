@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Sheraz Baig"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Sheraz Baig"
 description              : &description "personal description"
 url                      : https://www.sherazbaig.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
